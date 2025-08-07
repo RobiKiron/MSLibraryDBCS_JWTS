@@ -1,0 +1,11 @@
+D:\Robin\ABGVATScreen\MSLibrary\MSLibChk\bin\MSLibChk.dll.config
+D:\Robin\ABGVATScreen\MSLibrary\MSLibChk\bin\MSLibChk.dll
+D:\Robin\ABGVATScreen\MSLibrary\MSLibChk\bin\MSLibChk.pdb
+D:\Robin\ABGVATScreen\MSLibrary\MSLibChk\obj\Debug\MSLibChk.csproj.AssemblyReference.cache
+D:\Robin\ABGVATScreen\MSLibrary\MSLibChk\obj\Debug\MSLibChk.csproj.CoreCompileInputs.cache
+D:\Robin\ABGVATScreen\MSLibrary\MSLibChk\obj\Debug\MSLibChk.dll
+D:\Robin\ABGVATScreen\MSLibrary\MSLibChk\obj\Debug\MSLibChk.pdb
+D:\Robin\ABGVATScreen\MSLibrary\MSLibChk\bin\MSLibrary.dll
+D:\Robin\ABGVATScreen\MSLibrary\MSLibChk\bin\Newtonsoft.Json.dll
+D:\Robin\ABGVATScreen\MSLibrary\MSLibChk\bin\MSLibrary.pdb
+D:\Robin\ABGVATScreen\MSLibrary\MSLibChk\obj\Debug\MSLibChk.csproj.CopyComplete

@@ -1,0 +1,9 @@
+D:\Robin\ABGVATScreen\MSLibrary\MSLibrary\bin\Debug\netstandard2.1\MSLibraryV1.1.deps.json
+D:\Robin\ABGVATScreen\MSLibrary\MSLibrary\bin\Debug\netstandard2.1\MSLibraryV1.1.dll
+D:\Robin\ABGVATScreen\MSLibrary\MSLibrary\bin\Debug\netstandard2.1\MSLibraryV1.1.pdb
+D:\Robin\ABGVATScreen\MSLibrary\MSLibrary\obj\Debug\netstandard2.1\MSLibraryV1.1.csproj.AssemblyReference.cache
+D:\Robin\ABGVATScreen\MSLibrary\MSLibrary\obj\Debug\netstandard2.1\MSLibraryV1.1.AssemblyInfoInputs.cache
+D:\Robin\ABGVATScreen\MSLibrary\MSLibrary\obj\Debug\netstandard2.1\MSLibraryV1.1.AssemblyInfo.cs
+D:\Robin\ABGVATScreen\MSLibrary\MSLibrary\obj\Debug\netstandard2.1\MSLibraryV1.1.csproj.CoreCompileInputs.cache
+D:\Robin\ABGVATScreen\MSLibrary\MSLibrary\obj\Debug\netstandard2.1\MSLibraryV1.1.dll
+D:\Robin\ABGVATScreen\MSLibrary\MSLibrary\obj\Debug\netstandard2.1\MSLibraryV1.1.pdb
