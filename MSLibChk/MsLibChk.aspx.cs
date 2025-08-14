@@ -16,8 +16,7 @@ namespace MSLibChk
         private static readonly IDbcsConfigService _dbcsConfigService = DbcsConfigServiceeFactory.Create();
         protected void Page_Load(object sender, EventArgs e)
         {
-            //string dbstring = "Server=aal-esql01;Database=ERP_APP;User Id=NPrNwUs@Ag;Password=NPa2sLs@Ag;Persist Security Info=True;TrustServerCertificate=true;ApplicationIntent=ReadWrite;"; //txtDbString.Text;
-            //txtDbStringresult.Text = DBCSConf.GetEncryptedConnectionString(dbstring);
+            
         }
 
         protected void btnDbStringEncryp_Click(object sender, EventArgs e)
@@ -35,10 +34,10 @@ namespace MSLibChk
         protected void btnJwtStringEncrypt_Click(object sender, EventArgs e)
         {
             var _jwtsObj = new JwtSettings();
-            _jwtsObj.SecretKey = "EHhPKO52f374clOqtBtuEg==";
-            _jwtsObj.Secret = "4e095b0f54086cff60f4ff8bc51a7a13f631701697f7469e4144a02a3bd55cc9b42a725c7cbe12877116d07ac27e5793";
-            _jwtsObj.Issuer = "AkijGroup_Issuer";
-            _jwtsObj.Audience = "AkijGroup_audience";
+            _jwtsObj.SecretKey = "your secret key";
+            _jwtsObj.Secret = "your secret";
+            _jwtsObj.Issuer = "your issuer";
+            _jwtsObj.Audience = "your audience";
             _jwtsObj.ExpiryInMinutes = "30";
             var jwtstring = _jwtConfigService.EncryptJwtSettings(_jwtsObj);
             txtJwtStringresult.Text = jwtstring;
